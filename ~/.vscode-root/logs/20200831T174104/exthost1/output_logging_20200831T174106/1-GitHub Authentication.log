@@ -5443,3 +5443,16 @@
 [Error  - 18:02:20.475] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
 [Error  - 18:02:50.477] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
 [Error  - 18:03:20.479] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
+[Error  - 18:03:50.481] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
+[Info  - 18:03:55.827] Logging in...
+[Info  - 18:04:13.343] Treating input as token
+[Info  - 18:04:13.344] Getting user info...
+[Error  - 18:04:13.837] Getting account info failed: Unauthorized
+[Error  - 18:04:13.837] Unauthorized
+[Error  - 18:04:13.837] Error: network error
+[Error  - 18:04:20.485] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
+[Error  - 18:04:50.487] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
+[Error  - 18:05:20.490] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
+[Error  - 18:05:50.493] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
+[Error  - 18:06:20.497] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”
+[Error  - 18:06:50.500] Getting token failed: Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”

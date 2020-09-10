@@ -1,0 +1,8 @@
+[2020-09-02 15:07:45.974] Starting Git Graph ...
+[2020-09-02 15:07:45.982] Using git (version: 2.25.1)
+[2020-09-02 15:07:45.985] Started Git Graph - Ready to use!
+[2020-09-02 15:07:45.986] Searching workspace for new repos ...
+[2020-09-02 15:07:45.992] > git rev-parse --show-toplevel
+[2020-09-02 15:07:45.995] Added new repo: /var/www/scc.local
+[2020-09-02 15:07:45.996] Completed searching workspace for new repos
+[2020-09-02 15:07:45.996] Showing "Git Graph" Status Bar Item

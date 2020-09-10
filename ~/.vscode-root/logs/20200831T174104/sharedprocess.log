@@ -1,2 +1,10 @@
 [2020-08-31 17:41:07.881] [sharedprocess] [info] main {"machineId":"0a36fe968810103e537afe83e957c72d1c3a327ecc26326a1222b483d12485df","windowId":2}
 [2020-08-31 17:41:47.897] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-02 15:06:56.155] [sharedprocess] [info] Uninstalling extension: knisterpeter.vscode-github
+[2020-09-02 15:06:56.204] [sharedprocess] [info] Successfully uninstalled extension: knisterpeter.vscode-github
+[2020-09-02 15:07:45.090] [sharedprocess] [info] Installing extension: mhutchie.git-graph
+[2020-09-02 15:07:45.659] [sharedprocess] [info] Downloaded extension: mhutchie.git-graph /var/www/scc.local/~/.vscode-root/CachedExtensionVSIXs/mhutchie.git-graph-1.25.0
+[2020-09-02 15:07:45.797] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mhutchie.git-graph-1.25.0: mhutchie.git-graph
+[2020-09-02 15:07:45.797] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mhutchie.git-graph-1.25.0
+[2020-09-02 15:07:45.799] [sharedprocess] [info] Installation completed. mhutchie.git-graph
+[2020-09-02 15:07:45.851] [sharedprocess] [info] Extensions installed successfully: mhutchie.git-graph

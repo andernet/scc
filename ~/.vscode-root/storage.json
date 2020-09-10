@@ -90,12 +90,12 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -164,7 +164,8 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -1457,9 +1458,9 @@
             "uiState": {
                 "mode": 1,
                 "x": 962,
-                "y": 391,
+                "y": 68,
                 "width": 954,
-                "height": 685
+                "height": 1008
             }
         },
         "openedWindows": []
