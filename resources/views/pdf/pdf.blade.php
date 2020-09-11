@@ -10,7 +10,7 @@
 
 <body>
 
-    <h1>Welcome to Nicesnippets.com - {{ $title }}</h1>
+    <h1>Teste PDF- {{ $title }}</h1>
 
     <p>NiceSnippets Blog provides you latest Code Tutorials on PHP, Laravel, Codeigniter,
 
